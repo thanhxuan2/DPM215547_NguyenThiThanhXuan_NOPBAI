@@ -6,6 +6,4 @@ if (year % 4 ==0 and year % 100 != 0) or year % 400 == 0:
 else:
  print("Năm ", year, " không nhuần")
 
-git init
-git add .
-git commit -m "Thêm bài 1 kiểm tra năm nhuận"
+
