@@ -20,4 +20,4 @@ while True:
     hoi=input("Tiếp không?")
     if hoi=="k":
         break
-print("Cám ơn bạn đã chơi Game!")
+print("Cám ơn bạn đã chhơi Game!")
