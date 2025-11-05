@@ -1,5 +1,5 @@
 import math
-111111111111111111111# Nhập tọa độ điểm A
+# Nhập tọa độ điểm A
 xA = float(input("Nhập hoành độ xA: "))
 yA = float(input("Nhập tung độ yA: "))
 
