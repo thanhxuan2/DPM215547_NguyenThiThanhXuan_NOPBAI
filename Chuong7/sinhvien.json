@@ -1,0 +1,40 @@
+[
+    {
+        "ma_lop": "L01",
+        "ten_lop": "CNTT1",
+        "sinhvien": [
+            {
+                "ma_sv": "SV1",
+                "ten_sv": "Nguyễn Văn A",
+                "nam_sinh": 2000
+            },
+            {
+                "ma_sv": "SV2",
+                "ten_sv": "Trần Thị B",
+                "nam_sinh": 2001
+            }
+        ]
+    },
+    {
+        "ma_lop": "L02",
+        "ten_lop": "CNTT2",
+        "sinhvien": [
+            {
+                "ma_sv": "SV3",
+                "ten_sv": "Lê Văn C",
+                "nam_sinh": 2000
+            }
+        ]
+    },
+    {
+        "ma_lop": "23",
+        "ten_lop": "9A",
+        "sinhvien": [
+            {
+                "ma_sv": "DPM215547",
+                "ten_sv": "Thanh Xuân",
+                "nam_sinh": 2003
+            }
+        ]
+    }
+]
