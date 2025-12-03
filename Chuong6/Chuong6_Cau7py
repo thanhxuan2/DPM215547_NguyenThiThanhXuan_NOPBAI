@@ -1,0 +1,14 @@
+n = int(input("Nhập số lượng phần tử: "))
+
+lst = []
+print("Nhập dãy số theo thứ tự tăng:")
+for i in range(n):
+    while True:
+        num = float(input(f"Nhập số thứ {i+1}: "))
+        if i == 0 or num > lst[i-1]:  # Kiểm tra thứ tự tăng
+            lst.append(num)
+            break
+        else:
+            print("Sai quy tắc! Số phải lớn hơn số trước. Nhập lại.")
+
+print("Dãy số đã nhập xong:", lst)
